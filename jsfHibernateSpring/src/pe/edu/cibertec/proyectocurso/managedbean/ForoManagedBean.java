@@ -12,7 +12,7 @@ public class ForoManagedBean implements Serializable {
 	public ForoManagedBean() {
 	}
 	
-	public String listarCursos() {
+	public String listarForo() {
         
         return "/foro/listaForo";
     }
